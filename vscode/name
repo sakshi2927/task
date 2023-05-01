@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class name {
+    
+  public static void main(String[]args) {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("name is ");
+    String sakshi = scan.nextLine();
+    
+    
+    System.out.print("string is"+ sakshi);
+    
+  }  
+}
